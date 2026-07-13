@@ -1,0 +1,12 @@
+Algorithm
+Start.
+Create an empty queue.
+Mark the starting vertex as visited.
+Insert the starting vertex into the queue.
+Repeat until the queue is empty:
+Remove the front vertex from the queue.
+Print the vertex.
+Visit all adjacent unvisited vertices.
+Mark them as visited.
+Add them to the queue.
+Stop.
