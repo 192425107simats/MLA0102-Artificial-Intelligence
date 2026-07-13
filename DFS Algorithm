@@ -1,0 +1,7 @@
+Algorithm
+Start.
+Mark the starting vertex as visited.
+Print the vertex.
+Visit each adjacent unvisited vertex recursively.
+Continue until all vertices are visited.
+Stop.
